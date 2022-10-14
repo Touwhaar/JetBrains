@@ -7,7 +7,7 @@ This is my first project from the JetBrains study course.
 
 This is the code I wrote to complete this project:
 
-
+```java
 
         System.out.println("Hello! My name is FarmDreamBot.");
         System.out.println("I was created in 2022.");
@@ -51,3 +51,4 @@ This is the code I wrote to complete this project:
 
     }
 }
+```
